@@ -1,0 +1,8 @@
+{
+  "name": "Remix Muhammad Tariq — Online Quran Teacher",
+  "description": "Professional personal website for Muhammad Tariq, Hafiz-e-Quran with 5 years experience offering online Quran lessons in Noorani Qaida, Nazra, and Tajweed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
